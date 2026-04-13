@@ -1,11 +1,5 @@
 [
   {
-    "id": 1775893343154,
-    "name": "Francis Bolie",
-    "age": "36",
-    "course": "Web Development"
-  },
-  {
     "id": 1775893515569,
     "name": "Annie Doe",
     "age": "23",
@@ -14,7 +8,13 @@
   {
     "id": 1775893553597,
     "name": "Choice Bolie",
-    "age": "30",
-    "course": "English"
+    "age": "45",
+    "course": "Biology"
+  },
+  {
+    "id": 1776046599955,
+    "name": "Francis Bolie",
+    "age": "67",
+    "course": "History"
   }
 ]
